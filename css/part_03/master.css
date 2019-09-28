@@ -1,0 +1,15 @@
+/* This is CSS comment */
+body{
+  /* background: gray; */
+  background: url(https://wvchurch.files.wordpress.com/2014/07/beautiful-nature-and-scenic-website-header.jpg);
+  background-repeat: repeat;
+  /* background: url(https://thumbs.dreamstime.com/z/empty-grass-top-blur-park-green-nature-background-bokeh-light-mock-up-display-montage-product-banner-header-136022059.jpg) */
+}
+
+h1{
+  color:green;
+}
+
+p{
+  color: blue;
+}

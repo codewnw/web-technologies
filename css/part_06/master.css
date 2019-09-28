@@ -1,0 +1,32 @@
+.first{
+  background: blue;
+  text-decoration: underline;
+}
+
+
+.second{
+  background: orange;
+  border: 2px dotted green;
+}
+
+#important{
+  color: red;
+  text-align: right;
+  text-decoration: line-through;
+}
+
+h3 + ul{
+  border: 2px solid yellow;
+}
+
+ul li{
+  color: blue;
+}
+
+li a{
+  border: 2px solid green;
+}
+
+li a[href="https://www.google.com"]{
+  color: pink;
+}

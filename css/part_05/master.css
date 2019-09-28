@@ -1,0 +1,15 @@
+p{
+  color: blue;
+}
+
+div{
+  background-color: green;
+  border-color: red;
+border-style: solid;
+border-width: 10px;
+}
+
+span{
+  background: red;
+  border: 4px double yellow;
+}

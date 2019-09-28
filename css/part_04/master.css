@@ -1,0 +1,23 @@
+body{
+  /* background: gray; */
+}
+
+h1{
+  color:rgb(93, 191, 63);
+}
+
+h2{
+  color:rgba(93, 191, 63, 0.7);
+}
+
+p{
+  color: #791D8F;
+}
+
+h3{
+  color: hsl(351, 83%, 55%);
+}
+
+h4{
+  color: hsla(351, 83%, 55%, 0.5);
+}

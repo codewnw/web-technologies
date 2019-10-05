@@ -1,12 +1,11 @@
 .first{
-  background: blue;
+  background: #2C514C;
   text-decoration: underline;
 }
 
-
 .second{
   background: orange;
-  border: 2px dotted green;
+  border: 5px dotted green;
 }
 
 #important{
@@ -16,7 +15,7 @@
 }
 
 h3 + ul{
-  border: 2px solid yellow;
+  border: 5px solid yellow;
 }
 
 ul li{

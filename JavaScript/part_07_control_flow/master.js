@@ -10,4 +10,4 @@ if (confiramtion) {
     alert("Debit transaction has been cancelled.")
 }
 
-console.log("Currentl balanace is: " + balance)
+console.log("Current balanace is: " + balance)
